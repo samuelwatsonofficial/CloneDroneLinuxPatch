@@ -1,2 +1,2 @@
 # CloneDroneLinuxPatch
-Clone Drone In The Danger Zone is one of my favourite games and one that I wish had a native port, thanks to unity and someone smarter than me (if you're reading this thanks interknet) a port now exists.
+Clone Drone In The Danger Zone is one of my favourite games and one that I wish had a native port, thanks to unity and someone smarter than me (if you're reading this thanks interknet) a port now exists. Download this file https://www.dropbox.com/s/znp33c4iykfbxua/CloneDroneInTheDangerZone-LinuxPatch.tar.gz?dl=0 and replace any files it asks, then add the binary as a steam game and launch from there and it should work perfectly.
